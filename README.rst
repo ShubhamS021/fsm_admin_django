@@ -15,7 +15,7 @@ Or from GitHub:
 
 .. code:: sh
 
-   $ pip install -e git://github.com/gadventures/django-fsm-admin.git#egg=django-fsm-admin
+   $ pip install -e git://github.com/ShubhamS021/django-fsm-admin.git#egg=django-fsm-admin
 
 Usage
 -----
@@ -92,7 +92,7 @@ Try the example
 
 .. code:: sh
 
-   $ git clone git@github.com:gadventures/django-fsm-admin.git
+   $ git clone git@github.com:ShubhamS021/django-fsm-admin.git
    $ cd django-fsm-admin
    $ mkvirtualenv fsm_admin
    $ pip install -r requirements.txt
